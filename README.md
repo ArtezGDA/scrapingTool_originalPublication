@@ -7,3 +7,4 @@ Project for Scraping Tools: in search of the original publication
 - Marlou
 - Sharon
 - Zsa Zsa
+- Ilse
