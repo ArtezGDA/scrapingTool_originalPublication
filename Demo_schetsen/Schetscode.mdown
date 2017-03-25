@@ -1,7 +1,7 @@
-[![Screenshot](images/Schermafbeelding 2017-03-19 om 14.57.00)]
-[![Screenshot](images/Schermafbeelding 2017-03-19 om 14.57.05)]
-[![Screenshot](images/Schermafbeelding 2017-03-19 om 14.57.08)]
-[![Screenshot](images/Schermafbeelding 2017-03-19 om 14.57.13)]
+[![Screenshot01](images/Screenshot01)]
+[![Screenshot02](Images/Screenshot02)]
+[![Screenshot03](Images/Screenshot03)]
+[![Screenshot04](Images/Screenshot04)]
 
 <!DOCTYPE html>
 <html>
