@@ -1,7 +1,7 @@
-[![Screenshot01](images/Screenshot01)]
-[![Screenshot02](images/Screenshot02)]
-[![Screenshot03](images/Screenshot03)]
-[![Screenshot04](images/Screenshot04)]
+![Screenshot01](images/Screenshot01)]
+![Screenshot02](images/Screenshot02)]
+![Screenshot03](images/Screenshot03)]
+![Screenshot04](images/Screenshot04)]
 
 <!DOCTYPE html>
 <html>
@@ -64,7 +64,7 @@
 
 /* Add Animation */
 @-webkit-keyframes animatetop {
-    from {top: -300px; opacity: 0} 
+    from {top: -300px; opacity: 0}
     to {top: 0; opacity: 1}
 }
 
@@ -145,7 +145,7 @@
 		// Get the <span> element that closes the modal
 		var span = document.getElementsByClassName("close")[0];
 
-		// When the user clicks on the button, open the modal 
+		// When the user clicks on the button, open the modal
 		btn.onclick = function() {
 		    modal.style.display = "block";
 		}
