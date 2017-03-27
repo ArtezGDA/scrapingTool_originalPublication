@@ -78,7 +78,7 @@ The Post team seems to understand their constituency, in some cases providing co
 
 We’re now in a political climate where even studiously objective fact-checkers like Snopes and Politifact get branded as “far-left” when they comment on dubious right-wing news. If the Post truly wants to encourage more measured dialogue—rather than just flattering those who have done things that are “in no way ille- gal”—they may want to reassess their approach.
 
-VERIFICATIONJUNKIE.COM >>> WHAT TOOLS ARE USED TO CHECK DIFFERENT ITEMS?
+www.VERIFICATIONJUNKIE.COM >>> WHAT TOOLS ARE USED TO CHECK DIFFERENT ITEMS?
 
 ![junk](images/Junkie.png)
 ￼￼￼￼
