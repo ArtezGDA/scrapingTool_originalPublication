@@ -1,7 +1,7 @@
-![Screenshot01](images/Screenshot01)]
-![Screenshot02](images/Screenshot02)]
-![Screenshot03](images/Screenshot03)]
-![Screenshot04](images/Screenshot04)]
+![Screenshot01](images/Screenshot01.png)]
+![Screenshot02](images/Screenshot02.png)]
+![Screenshot03](images/Screenshot03.png)]
+![Screenshot04](images/Screenshot04.png)]
 
 <!DOCTYPE html>
 <html>
