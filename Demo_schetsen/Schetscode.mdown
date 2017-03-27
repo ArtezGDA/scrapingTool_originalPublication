@@ -1,7 +1,7 @@
-[![Screenshot01](images/Screenshot01)]
-[![Screenshot02](Images/Screenshot02)]
-[![Screenshot03](Images/Screenshot03)]
-[![Screenshot04](Images/Screenshot04)]
+[![Screenshot01](scrapingTool_originalPublication/images/Screenshot01)]
+[![Screenshot02](scrapingTool_originalPublication/images/Screenshot02)]
+[![Screenshot03](scrapingTool_originalPublication/images/Screenshot03)]
+[![Screenshot04](scrapingTool_originalPublication/images/Screenshot04)]
 
 <!DOCTYPE html>
 <html>
