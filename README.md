@@ -29,6 +29,8 @@ With the 'checker tool' you will get a better idea of the geography of your ever
 
 Scan the internet world you're in and find out that there is more. Go see the unseen!
 
+click [here](https://github.com/ArtezGDA/scrapingTool_originalPublication/blob/master/previewTool.md) for a preview of the tool
+
 
 # CONTRIBUTORS
 
